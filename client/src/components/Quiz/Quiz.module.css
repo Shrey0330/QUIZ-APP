@@ -1,0 +1,5 @@
+.option:hover{
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 250ms ease-in-out;
+}

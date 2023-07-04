@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-evenly; */
+    gap: 2rem;
+    width: 30%;
+    margin: auto;
+    margin-top: 100px;
+    /* border: 2px solid rgb(85, 99, 255); */
+    padding: 90px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+
+.container > div{
+    font-size: xx-large;
+    font-weight: 700;
+    margin: auto;
+}
